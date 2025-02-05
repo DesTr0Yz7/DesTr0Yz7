@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hello there 
 
+My username is DesTr0Yz7. *Please don't mind the capitals and numbers, I used the name ever since I was a kid during the Xbox 360 days lol.*
+
+I'm currently doing a college course in video games and digital media design.
+
+I am *also* doing some modelling and animation work for a modded Minecraft server called Cobbleland, where I'm currently learning how to create datapacks and resource packs.
+
+Fun fact: I am 100 meters from your location, and approaching rapidly.
+## *Start running*
 <!--
 **DesTr0Yz7/DesTr0Yz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
